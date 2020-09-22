@@ -17,4 +17,55 @@ article p{
 }
 footer h3{
 	text-align: center;
+	font-size:50px;
+}
+article i[class="fas fa-allergies"] {
+	color: green;
+	font-size:50px;
+}
+article i[class="fas fa-angry"]{
+	color: red;
+	font-size:50px;
+}
+header i[class="fas fa-ambulance"]{
+	color: #74bfcc;
+}
+.container {
+	background: url(../img/nuotrauka.jpg) no-repeat;
+	background-size: 100px;
+}
+.container2 {
+	background-color: #45e6d8;
+}
+.container3 {
+	background-color:rgba(46, 45, 43, 0.5);
+
+}
+.container4 {
+	background-color: #bd1128;
+}
+.container5 {
+	background-color: #d95bd9;
+}
+header{
+	background-color: #c7e314;
+}
+footer {
+	background: url(../img/nuotrauka.jpg) rgb(3, 252, 53);
+}
+.font{
+	background: url(../img/nuotrauka.jpg) repeat-x;
+	background-size: 1000px;
+	height: 2em;
+	background-attachment: fixed;
+}
+}
+table{
+	border-collapse:collapse;
+	width: 100
+}
+th, td {
+	text-align: left;
+	padding: 8px;
+	border: 1px solid #000;
 }
